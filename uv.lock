@@ -390,6 +390,10 @@ dependencies = [
     { name = "faiss-cpu" },
     { name = "langchain" },
     { name = "langchain-community" },
+<<<<<<< HEAD
+=======
+    { name = "langchain-core" },
+>>>>>>> 7697943 (fix: update project structure and paths)
     { name = "langchain-huggingface" },
     { name = "numpy" },
     { name = "pandas" },
@@ -411,6 +415,10 @@ requires-dist = [
     { name = "faiss-cpu", specifier = "==1.9.0.post1" },
     { name = "langchain", specifier = "==0.2.11" },
     { name = "langchain-community", specifier = "==0.2.10" },
+<<<<<<< HEAD
+=======
+    { name = "langchain-core", specifier = ">=0.2.43" },
+>>>>>>> 7697943 (fix: update project structure and paths)
     { name = "langchain-huggingface", specifier = "==0.0.3" },
     { name = "numpy", specifier = "==1.26.4" },
     { name = "pandas", specifier = "==2.2.2" },
